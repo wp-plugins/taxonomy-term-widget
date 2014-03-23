@@ -21,3 +21,7 @@ It just let you choose any taxonomy you have in your blog.
 3. Go to widgets under Appearance Menu Taxonomy Term Widget is waiting for you
 
 Have fun!!!
+
+== Screenshots ==
+
+1. Taxonomy Term Widget Admin Panel.
