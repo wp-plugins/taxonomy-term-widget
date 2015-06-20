@@ -1,6 +1,6 @@
 === Taxonomy Term Widget ===
 Contributors: codersantosh
-Tags: wordpress taxonomy term widget,taxonomy,terms,widget
+Tags: Categories widget, Terms Widget, Custom taxonomy widget, Wordpress taxonomy term widget, taxonomy, terms, widget
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 2.0
