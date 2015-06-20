@@ -4,10 +4,10 @@ Plugin Name: Taxonomy Term Widget
 Plugin URI: http://www.codersantosh.com
 Description: Add advanced widget to your wordpress blog,like an extension of Categories widget
 Version: 2.0
-Author: Santosh Kunwar (CoderSantosh)
+Author: CoderSantosh
 Author URI: http://codersantosh.com
 License: GPL
-Copyright: Santosh Kunwar (CoderSantosh)
+Copyright: CoderSantosh (Santosh Kunwar)
 */
 /*Make sure we don't expose any info if called directly*/
 if ( !function_exists( 'add_action' ) ) {
