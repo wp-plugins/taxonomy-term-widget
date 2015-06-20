@@ -2,8 +2,8 @@
 Contributors: codersantosh
 Tags: wordpress taxonomy term widget,taxonomy,terms,widget
 Requires at least: 3.0
-Tested up to: 3.8.1
-Stable tag: 1.0
+Tested up to: 4.2.2
+Stable tag: 2.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -12,9 +12,16 @@ Add advanced widget to your wordpress blog,like an extension of Categories widge
 == Description ==
 
 If you have already familiar with Categories widget, then You are already familiar with it too.
-It just let you choose any taxonomy you have in your blog.
+It just let you choose any taxonomy you have in your blog, for example Tags, You custom taxonomy ( Eg: Location, Product Categories, Product Tags etc... ).
 
 == Installation ==
+
+1. Login to admin panel,Go to Plugins => Add New.
+2. Search for "Coder Customizer Framework" and install it.
+3. Once you install it, activate it
+4. Go to Appearance => Widgets, Taxonomy Term Widget is waiting for you
+
+Or
 
 1. Put the plug-in folder into [wordpress_dir]/wp-content/plugins/
 2. Go into the WordPress admin interface and activate the plugin
