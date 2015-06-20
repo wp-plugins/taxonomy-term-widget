@@ -3,7 +3,7 @@
 Plugin Name: Taxonomy Term Widget
 Plugin URI: http://www.codersantosh.com
 Description: Add advanced widget to your wordpress blog,like an extension of Categories widget
-Version: 2.0
+Version: 2.1
 Author: CoderSantosh
 Author URI: http://codersantosh.com
 License: GPL
