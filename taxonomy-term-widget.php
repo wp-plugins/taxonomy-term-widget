@@ -1,11 +1,13 @@
 <?php
 /*
 Plugin Name: Taxonomy Term Widget
-Plugin URI: http://www.santoshkunwar.com.np/taxonomy-term-widget/
+Plugin URI: http://www.codersantosh.com
 Description: Add advanced widget to your wordpress blog,like an extension of Categories widget
 Version: 1.0
-Author: Santosh Kunwar
-Author URI: http://www.santoshkunwar.com.np
+Author: CoderSantosh
+Author URI: http://codersantosh.com
+License: GPL
+Copyright: CoderSantosh (Santosh Kunwar)
 */
 /*=======================Taxonomy term Widget==============================*/
 class coder_taxonomy_term extends WP_Widget {
