@@ -17,7 +17,7 @@ It just let you choose any taxonomy you have in your blog, for example Tags, You
 == Installation ==
 
 1. Login to admin panel,Go to Plugins => Add New.
-2. Search for "Coder Customizer Framework" and install it.
+2. Search for "Taxonomy Term Widget" and install it.
 3. Once you install it, activate it
 4. Go to Appearance => Widgets, Taxonomy Term Widget is waiting for you
 
